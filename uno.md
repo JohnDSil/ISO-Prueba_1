@@ -1,2 +1,2 @@
 Concepto de virtualización
-![lebron](img/Foto1.md)
+![lebron](img/Foto1.jpg)
